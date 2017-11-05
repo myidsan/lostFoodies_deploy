@@ -1,0 +1,14 @@
+{
+  "name": "lostfoodies_deploy",
+  "version": "1.0.0",
+  "description": "l",
+  "main": "index.js",
+  "scripts": {
+    "test": "l"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
